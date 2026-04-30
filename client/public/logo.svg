@@ -1,0 +1,19 @@
+<svg width="200" height="60" viewBox="0 0 200 60" xmlns="http://www.w3.org/2000/svg">
+  <!-- Green circle background -->
+  <circle cx="30" cy="30" r="25" fill="#8BC34A" stroke="#4CAF50" stroke-width="2"/>
+  
+  <!-- Fork and spoon icon -->
+  <g transform="translate(20, 15)">
+    <!-- Fork -->
+    <path d="M5 5 L5 25 M3 5 L3 12 M7 5 L7 12 M5 12 L5 15" stroke="#2E7D32" stroke-width="2" fill="none" stroke-linecap="round"/>
+    <!-- Spoon -->
+    <path d="M15 5 Q15 8 15 10 Q15 12 13 12 Q11 12 11 10 Q11 8 11 5 M13 12 L13 25" stroke="#2E7D32" stroke-width="2" fill="none" stroke-linecap="round"/>
+  </g>
+  
+  <!-- FoodZero text -->
+  <text x="65" y="25" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#4CAF50">Food</text>
+  <text x="65" y="45" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#666">Zero</text>
+  
+  <!-- Orange dot on 'i' -->
+  <circle cx="175" cy="20" r="3" fill="#FF9800"/>
+</svg>
